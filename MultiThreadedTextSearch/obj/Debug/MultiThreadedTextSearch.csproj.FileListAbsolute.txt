@@ -1,0 +1,10 @@
+C:\Users\CastleSword\visualStudio2017\workspace\MultiThreadedTextSearch\MultiThreadedTextSearch\bin\Debug\MultiThreadedTextSearch.exe.config
+C:\Users\CastleSword\visualStudio2017\workspace\MultiThreadedTextSearch\MultiThreadedTextSearch\bin\Debug\MultiThreadedTextSearch.exe
+C:\Users\CastleSword\visualStudio2017\workspace\MultiThreadedTextSearch\MultiThreadedTextSearch\bin\Debug\MultiThreadedTextSearch.pdb
+C:\Users\CastleSword\visualStudio2017\workspace\MultiThreadedTextSearch\MultiThreadedTextSearch\obj\Debug\MultiThreadedTextSearch.csprojResolveAssemblyReference.cache
+C:\Users\CastleSword\visualStudio2017\workspace\MultiThreadedTextSearch\MultiThreadedTextSearch\obj\Debug\MultiThreadedTextSearch.myForm.resources
+C:\Users\CastleSword\visualStudio2017\workspace\MultiThreadedTextSearch\MultiThreadedTextSearch\obj\Debug\MultiThreadedTextSearch.Properties.Resources.resources
+C:\Users\CastleSword\visualStudio2017\workspace\MultiThreadedTextSearch\MultiThreadedTextSearch\obj\Debug\MultiThreadedTextSearch.csproj.GenerateResource.Cache
+C:\Users\CastleSword\visualStudio2017\workspace\MultiThreadedTextSearch\MultiThreadedTextSearch\obj\Debug\MultiThreadedTextSearch.csproj.CoreCompileInputs.cache
+C:\Users\CastleSword\visualStudio2017\workspace\MultiThreadedTextSearch\MultiThreadedTextSearch\obj\Debug\MultiThreadedTextSearch.exe
+C:\Users\CastleSword\visualStudio2017\workspace\MultiThreadedTextSearch\MultiThreadedTextSearch\obj\Debug\MultiThreadedTextSearch.pdb
